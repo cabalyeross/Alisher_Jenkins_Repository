@@ -20,7 +20,7 @@ public class WebdriverUtils {
 
     private static WebDriver driver;
 
-    private WebdriverUtils(){
+    private WebdriverUtils() {
 
     }
 
